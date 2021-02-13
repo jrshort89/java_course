@@ -16,5 +16,6 @@ public class Challenge {
         System.out.println(remainderZero);
 
         if (!remainderZero) System.out.println("Got some remainder");
+        System.out.println("You can put stuff on the same line.");System.out.println("But it's hard to read.");
     }
 }
