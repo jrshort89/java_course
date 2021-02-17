@@ -25,6 +25,9 @@ public class IfAndBlocks {
             calculateScore(score, levelCompleted, bonus);
         }
 
+        for (int i = 0; i < 100; i++) {
+            System.out.println("This is the number " + i);
+        }
 
     }
 
